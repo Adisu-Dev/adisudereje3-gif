@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adisudereje3-gif&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adisudereje3-gif&show_icons=true&theme=radical)
 
