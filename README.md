@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adisudereje3-gif&show_icons=true&theme=radical" width="450" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adisu-Dev&show_icons=true&theme=radical" width="450" />
 
 <h2>🛠 Languages and Tools:</h2>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -49,3 +49,4 @@ Concepts: Procedural Programming, Relational Database Management (RDBMS), Data V
 - [ ] Add a Graphical User Interface (GUI) for the ATM project using Tkinter.
 - [ ] Connect the Python frontend to the SQL Server backend for persistent data storage.
 - [ ] Implement a web-based dashboard for the Placement System.
+<h3>Developed By Adisu Dereje</h3>
