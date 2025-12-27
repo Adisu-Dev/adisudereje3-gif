@@ -1,5 +1,4 @@
 <h3 align="left">Hi there 👋</h3>
-
 <img src="https://github-readme-stats.vercel.app/api?username=adisudereje3-gif&show_icons=true&theme=radical" />
  🛠 Languages and Tools:
  
